@@ -11,7 +11,7 @@ import {
 } from "react-native";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const API_KEY = "AIzaSyBbN7sCb4c57JWK_HMr79FUh2DwftZ6jew"; // Replace with your Gemini API key
+const API_KEY = "";
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 const Chatbot = () => {
@@ -166,3 +166,4 @@ const Chatbot = () => {
 };
 
 export default Chatbot;
+
