@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Budgeting Basics",
+    "emoji": "💰",
+    "summary": "Control your money with the 50/30/20 rule.",
+    "content": "Track your income and expenses carefully. Allocate 50% to needs, 30% to wants, and 20% to savings. Adjust monthly as your income changes.",
+    "tips": [
+      "Use budgeting apps to automate tracking.",
+      "Review your expenses weekly.",
+      "Set realistic goals for saving."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Emergency Fund",
+    "emoji": "🛟",
+    "summary": "Be prepared for unexpected events.",
+    "content": "Set aside 3–6 months of living expenses to cover emergencies. This prevents debt accumulation during financial shocks.",
+    "tips": [
+      "Keep the fund in a high-yield savings account.",
+      "Start small and increase gradually.",
+      "Avoid using it for non-emergencies."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Investing 101",
+    "emoji": "📈",
+    "summary": "Grow wealth early through investments.",
+    "content": "Invest early to take advantage of compound interest. Diversify across stocks, bonds and ETFs to reduce risk.",
+    "tips": [
+      "Research before investing.",
+      "Start with index funds for low risk.",
+      "Review portfolio annually."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Smart Spending",
+    "emoji": "🛒",
+    "summary": "Avoid impulsive buying decisions.",
+    "content": "Make shopping lists, compare prices, and focus on value rather than cost. Track spending habits to reduce unnecessary expenses.",
+    "tips": [
+      "Wait 24 hours before a non-essential purchase.",
+      "Use cashback apps where possible.",
+      "Set monthly spending limits."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Understanding Loans",
+    "emoji": "🏦",
+    "summary": "Know the terms before borrowing.",
+    "content": "Loans come with interest rates and repayment terms. Always compare APRs, check late fees, and borrow only what you can repay.",
+    "tips": [
+      "Read the fine print.",
+      "Avoid multiple loans at once.",
+      "Prioritize paying off high-interest loans."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Credit Score Basics",
+    "emoji": "📊",
+    "summary": "Learn how your score affects borrowing.",
+    "content": "Your credit score represents your creditworthiness. Pay bills on time, keep balances low, and avoid unnecessary credit checks.",
+    "tips": [
+      "Check your credit report regularly.",
+      "Maintain long-term accounts.",
+      "Keep credit card utilization under 30%."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Compound Interest",
+    "emoji": "💹",
+    "summary": "Earn interest on interest.",
+    "content": "Money grows faster when interest is earned on both principal and accumulated interest. The earlier you start, the bigger the effect.",
+    "tips": [
+      "Invest consistently over time.",
+      "Reinvest dividends.",
+      "Start with small amounts if needed."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Taxes & Benefits",
+    "emoji": "🧾",
+    "summary": "Understand taxes and government support.",
+    "content": "Learn how income taxes affect your earnings. Explore deductions, credits, and benefits that can reduce tax liability.",
+    "tips": [
+      "Keep receipts for deductions.",
+      "Use tax filing apps.",
+      "Consult a tax advisor if unsure."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Digital Payments",
+    "emoji": "💳",
+    "summary": "Use cards and wallets safely.",
+    "content": "Use digital wallets and cards securely. Monitor transactions and enable two-factor authentication for safety.",
+    "tips": [
+      "Never share OTPs or PINs.",
+      "Enable notifications for all transactions.",
+      "Use strong passwords for wallets."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Insurance Basics",
+    "emoji": "🛡️",
+    "summary": "Protect yourself from financial loss.",
+    "content": "Insurance helps cover risks for health, life, or property. Understand policy terms and ensure coverage matches your needs.",
+    "tips": [
+      "Compare multiple insurance plans.",
+      "Review coverage annually.",
+      "Pay premiums on time to avoid lapses."
+    ]
+  }
+]
