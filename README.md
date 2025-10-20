@@ -1,21 +1,7 @@
+<img width="1367" height="771" alt="image" src="https://github.com/user-attachments/assets/c86a0710-476b-4045-a9e2-06ed87639ba7" />
+<img width="1370" height="768" alt="image" src="https://github.com/user-attachments/assets/e0d8f9a9-6a5d-4e91-b799-aa370d325e8b" />
 
-<img width="500" height="800" alt="main" src="https://github.com/user-attachments/assets/f549fac2-8fbb-4de6-824a-8f543b8af30b" />
-<img width="500" height="800" alt="welcome" src="https://github.com/user-attachments/assets/cda0da5e-c014-4b64-a879-9ae79b83ab19" />
 
-# CrediWise
-
-CrediWise is a mobile app designed to promote financial literacy and help users manage their finances effectively. It provides practical tools like Budget Tracker, Loan & EMI Calculator, Credit Score Calculator, Fun Quizzes, Compounding Calculator, and an AI Financial Advisor to guide users toward smarter financial decisions.
-
-**Features**
-
- - Learn: Interactive lessons to understand financial concepts.
- - Budget Tracker: Track income and expenses effortlessly.
- - Loan & EMI Calculator: Plan loans and calculate monthly payments.
- - Credit Score Calculator: Know your credit health and thresholds.
- - Compounding Calculator: Visualize your savings growth over time.
- - Fun Quizzes: Test your financial knowledge and get instant feedback.
- - AI Financial Advisor: Ask questions and get personalized financial guidance.
- - News & Insights: Stay updated with financial news and tips.
 
 
 
