@@ -12,7 +12,6 @@ export default function SimulatorScreen() {
 
   const animatedValue = new Animated.Value(0);
 
-  // 💡 Random tip generator
   const tips = [
     "Pay your credit card bill on time — even one missed payment can hurt your score.",
     "Keep your credit utilization below 30% to show lenders you're responsible.",
@@ -52,7 +51,6 @@ export default function SimulatorScreen() {
     <View style={styles.container}>
       <Text style={styles.title}>Credit Score Simulator 💳</Text>
       
-      {/* 📊 Animated Score Display */}
       <Animated.View style={[styles.scoreContainer]}>
         <Text style={styles.scoreTitle}>Estimated Credit Score</Text>
         <Text style={[styles.score, { color: getScoreColor(score) }]}>
@@ -61,7 +59,6 @@ export default function SimulatorScreen() {
         <Text style={styles.scoreNote}>{getScoreMessage(score)}</Text>
       </Animated.View>
 
-      {/* 🎛️ Simulation Controls */}
       <Card style={styles.card}>
         <Card.Content>
 
@@ -116,7 +113,6 @@ export default function SimulatorScreen() {
         </Card.Content>
       </Card>
 
-      {/* 💡 Tip of the Day */}
       <Card style={styles.tipCard}>
         <Card.Content>
           <Text style={styles.tipTitle}>💡 Tip of the Day</Text>
@@ -228,3 +224,4 @@ const styles = StyleSheet.create({
     lineHeight: 22,
   },
 });
+
